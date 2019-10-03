@@ -1,6 +1,6 @@
 const mongoose = require ('mongoose');
 
-const UserSchema = new mongoose.Schema({
+const SpotSchema = new mongoose.Schema({
    thumbnail : String,
    company: String,
    price: Number,
@@ -9,6 +9,14 @@ const UserSchema = new mongoose.Schema({
     type: mongoose.SchemaTypes.ObjectId,
     ref: 'User'
    }
+}, {
+   toJSON:{
+      virtuals: true,
+   },
 });
 
-module.exports = mongoose.model('Spot', UserSchema);
+SpotSchema.virtual('thumbnail_url').get(function() {
+   return `http://localhost:3333/files/${this.thumbnail}`
+})
+
+module.exports = mongoose.model('Spot', SpotSchema);
