@@ -1,4 +1,5 @@
 # AirCnC
+![Preview](https://user-images.githubusercontent.com/50254416/66184019-27718000-e651-11e9-8576-550ead39abf2.jpg)
  - Development of an application using the stack *Node.js*, *ReactJS* e *React Native*
  
 ## Why?
