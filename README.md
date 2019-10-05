@@ -17,7 +17,7 @@ If you want to test the App in the Production mode, the installers are listed be
 
 ## App
  - The application to be developed will be similar to AirBnB, but for developers;;
- - Developers will be registered through the email;
+ - Users will be registered through the email
  - Data returned the email and how many spots that users registered;
  
 ## Configuration
