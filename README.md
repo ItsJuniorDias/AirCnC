@@ -15,6 +15,18 @@ If you want to test the App in the Production mode, the installers are listed be
 - ReactJs [Link](https://reactjs.org/docs/getting-started.html) for frontend.
 - ReactNative [Link](https://facebook.github.io/react-native/docs/getting-started) for mobile
 
+## App
+ - The application to be developed will be similar to AirBnB, but for developers;;
+ - Developers will be registered through the email;
+ - Data returned the email and how many spots that users registered;
+ 
+## Configuration
+  - Configuration **Express** , a microframework that deals with routes, requests and responses;
+- Configuration **nodemon** to monitor code changes and restart the server automatically when changes occur;
+- Creation of *Models* and *Controllers*;
+- Configuration of **mongoose** (ODM that uses Javascript syntax) to handle **MongoDB**, a nonrelational database;
+- Using **axes** to handle external API requests.
+
 ## Getting Started
 
 ### Prerequisites
