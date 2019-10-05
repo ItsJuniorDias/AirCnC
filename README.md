@@ -16,8 +16,8 @@ If you want to test the App in the Production mode, the installers are listed be
 - ReactNative [Link](https://facebook.github.io/react-native/docs/getting-started) for mobile
 
 ## App
- - The application to be developed will be similar to AirBnB, but for developers;;
- - Users will be registered through the email
+ - The application to be developed will be similar to AirBnB, but for developers;
+ - Users will be registered through the email;
  - Data returned the email and how many spots that users registered;
  
 ## Configuration
