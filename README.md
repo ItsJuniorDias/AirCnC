@@ -7,10 +7,10 @@
   #### Entrepreneurs Offer Programmers Stay in Their Business to Discover New Talents
 
 
-  ![](https://img.shields.io/badge/author-Junior%20Dias-brightgreen)
-  ![](https://img.shields.io/badge/Back--End-NodeJS-brightgreen)
-  ![](https://img.shields.io/badge/Front--End-ReactJS-brightgreen)
-  ![](https://img.shields.io/badge/Mobile-React%20Native-brightgreen)
+  ![](https://img.shields.io/badge/author-Junior%20Dias-/?color=f05a5b)
+  ![](https://img.shields.io/badge/Back--End-NodeJS-/?color=f05a5b)
+  ![](https://img.shields.io/badge/Front--End-ReactJS-/?color=f05a5b)
+  ![](https://img.shields.io/badge/Mobile-React%20Native-/?color=f05a5b)
 </div> 
 
 # AirCnC 🏢
